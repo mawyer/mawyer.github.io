@@ -8,4 +8,8 @@ categories:
 
 _Royall_
 
+{% img /images/grouponTip.png %}
 haha ,this is my firt post
+
+
+
