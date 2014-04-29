@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Royall Instruments]]></title>
+  <link href="http://mawyer.github.io/atom.xml" rel="self"/>
+  <link href="http://mawyer.github.io/"/>
+  <updated>2014-04-29T10:36:52+08:00</updated>
+  <id>http://mawyer.github.io/</id>
+  <author>
+    <name><![CDATA[Mawyer]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://mawyer.github.io/blog/2014/04/28/hello-world/"/>
+    <updated>2014-04-28T18:36:17+08:00</updated>
+    <id>http://mawyer.github.io/blog/2014/04/28/hello-world</id>
+    <content type="html"><![CDATA[<p><em>Royall</em></p>
+
+<p><img src="http://mawyer.github.io/images/grouponTip.png">
+haha ,this is my firt post</p>
+]]></content>
+  </entry>
+  
+</feed>
